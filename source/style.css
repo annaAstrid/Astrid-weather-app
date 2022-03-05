@@ -72,3 +72,6 @@ li {
   max-width: 600px;
   margin: 30px auto;
 }
+.btn btn-primary w-100 {
+  color: rgb(183, 248, 193) -3.5%;
+}
